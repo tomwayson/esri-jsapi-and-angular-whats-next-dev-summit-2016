@@ -1,0 +1,30 @@
+{
+  "name": "esri-jsapi-and-angular-whats-next-dev-summit-2016",
+  "version": "1.0.0",
+  "description": "Dev Summit 2016 Presentation \"ArcGIS API for JavaScript and AngularJS: What's Next\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwasilgeo/esri-jsapi-and-angular-whats-next-dev-summit-2016.git"
+  },
+  "keywords": [
+    "esri",
+    "jsapi",
+    "angular",
+    "devsummit"
+  ],
+  "author": "Jacob Wasilkowski and Tom Wayson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwasilgeo/esri-jsapi-and-angular-whats-next-dev-summit-2016/issues"
+  },
+  "homepage": "https://github.com/jwasilgeo/esri-jsapi-and-angular-whats-next-dev-summit-2016#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-gh-pages": "^1.0.0"
+  },
+  "dependencies": {}
+}
