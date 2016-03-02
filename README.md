@@ -4,4 +4,4 @@ The next major releases of AngularJS and the ArcGIS API for JavaScript (4.0) wil
 
 ## Links
 - Schedule: [Thursday, 10 March 2016 at 5:30pm, in Mesquite B](https://devsummit.schedule.esri.com/#schedule/56b2874e4be5dd46a3000302/56b2874e4be5dd46a3000303)
-- Slides: _TO DO: add gh-pages link here_
+- Slides: http://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016/
